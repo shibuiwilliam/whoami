@@ -197,3 +197,13 @@ Yusuke Shibui's sessions and organized events
   - event: https://tier4.connpass.com/event/198897/
   - youtube: https://www.youtube.com/watch?v=08ZADVPz4sE
 <br>
+
+## Links
+- GitHub: [shibuiwilliam](https://github.com/shibuiwilliam)
+- SlideShare: [yusukeshibui](https://www.slideshare.net/yusukeshibui)
+- Facebook: [yusuke.shibui](https://www.facebook.com/yusuke.shibui)
+- LinkedIn: [yusuke shibui](https://www.linkedin.com/in/yusuke-shibui-64337932/)
+- Qiita: [cvusk](https://qiita.com/cvusk)
+- Medium: [shibuiyusuke](https://medium.com/@shibuiyusuke)
+- Meety: https://meety.net/ma/matches/NGLJMxNiHGUy
+- YouTrust: [shibui](https://youtrust.jp/users/shibui)
