@@ -8,6 +8,32 @@ Yusuke Shibui's sessions and organized events
   - https://www.shoeisha.co.jp/book/detail/9784798169453
   - https://www.amazon.co.jp/dp/B08YNMRH4J/
 
+## Blog posts
+
+- 自動運転データの検索システムを爆速で作った話
+  - https://tech.tier4.jp/entry/data-search-alpha
+
+- 2020年でKubernetesクラスターを3回再構築した話
+  - https://tech.tier4.jp/entry/reconstruct-eks
+
+- Machine learning system in patterns
+  - https://engineering.mercari.com/en/blog/entry/ml-system-design-en/
+
+- 機械学習システムの設計パターンを公開します。
+  - https://engineering.mercari.com/blog/entry/ml-system-design/
+
+- マルチモーダル・ディープラーニングの商品分類を本番環境で動かす
+  - https://engineering.mercari.com/blog/entry/2019-02-19-180000/
+  
+- 【カンファレンス・レポート】TensorFlow Dev Summmit 2019に参加してきました！
+  - https://engineering.mercari.com/blog/entry/tfdevsummit2019/
+
+### Other blogs
+
+- Qiita: [cvusk](https://qiita.com/cvusk)
+- Medium: [shibuiyusuke](https://medium.com/@shibuiyusuke)
+
+
 ## Sessions
 
 ### 2021
