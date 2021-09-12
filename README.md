@@ -22,6 +22,9 @@ Yusuke Shibui's sessions and organized events
 - 機械学習システムの設計パターンを公開します。
   - https://engineering.mercari.com/blog/entry/ml-system-design/
 
+- リモート×ランチ勉強会「Edge AIとMLシステム」の開催成功！オンライン配信を支える技術
+  - https://mercan.mercari.com/articles/21266/
+
 - マルチモーダル・ディープラーニングの商品分類を本番環境で動かす
   - https://engineering.mercari.com/blog/entry/2019-02-19-180000/
   
@@ -59,6 +62,10 @@ Yusuke Shibui's sessions and organized events
   - slides: https://www.slideshare.net/yusukeshibui/getting-started-with-mlops-246631675
   - event: https://mlops.connpass.com/event/206228/
 <br>
+
+- コミュニティラジオDataRobot充電中 6月の投稿テーマ「MLOps」
+  - event: https://datarobot.connpass.com/event/215155/
+  - event: https://community.datarobot.com/t5/%E8%B3%AA%E5%95%8F-%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%A9%E3%82%B8%E3%82%AAdatarobot%E5%85%85%E9%9B%BB%E4%B8%AD-6%E6%9C%88%E3%81%AE%E6%8A%95%E7%A8%BF%E3%83%86%E3%83%BC%E3%83%9E-mlops/m-p/11707#M733
 
 - DevOps Days Tokyo 2021
   - MLOpsの始め方
@@ -223,6 +230,11 @@ Yusuke Shibui's sessions and organized events
   - event: https://tier4.connpass.com/event/198897/
   - youtube: https://www.youtube.com/watch?v=08ZADVPz4sE
 <br>
+
+### 2019
+
+- メルカリ メルペイMachineLearning meetup!未来を創るML最前線技術の応用と実践
+  - event: https://mercari.connpass.com/event/142853/
 
 ## Links
 - GitHub: [shibuiwilliam](https://github.com/shibuiwilliam)
