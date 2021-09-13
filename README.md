@@ -7,6 +7,7 @@ Yusuke Shibui's sessions and organized events
 - AIエンジニアのための機械学習システムデザインパターン
   - https://www.shoeisha.co.jp/book/detail/9784798169453
   - https://www.amazon.co.jp/dp/B08YNMRH4J/
+ 
 ![img](https://www.seshop.com/static/images/product/24417/L.png)
 
 ## Blog posts
