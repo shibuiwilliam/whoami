@@ -165,7 +165,6 @@ Yusuke Shibui's sessions and organized events
 
 ## Hosted meetups
 
-
 ### 2021
 
 - 第10回 MLOps 勉強会 Tokyo
