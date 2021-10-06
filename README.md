@@ -98,6 +98,13 @@ Yusuke Shibui's sessions and hosted events
 <br>
 
 
+- ROS Japan UG #44 LT大会
+  - Rosbag検索システムを作る
+  - [slides](https://www.slideshare.net/yusukeshibui/rosbag-search-system)
+  - [event](https://rosjp.connpass.com/event/222141/)
+<br>
+
+
 ### 2020
 
 - 第48回 Machine Learning 15minutes!
