@@ -89,14 +89,12 @@ Yusuke Shibui's sessions and hosted events
   - [togetter](https://togetter.com/li/1669781)
 <br>
 
-
 - メルペイxティアフォー　機械学習社会実装のためのシステム開発の話
   - 機械学習と一緒に信号機を探す旅
   - [slides](https://www.slideshare.net/yusukeshibui/traffic-light-detection-for-self-driving-car)
   - [event](https://mercari.connpass.com/event/202084/)
   - [youtube](https://www.youtube.com/watch?v=621b3VYmg8o)
 <br>
-
 
 - ROS Japan UG #44 LT大会
   - Rosbag検索システムを作る
@@ -227,7 +225,6 @@ Yusuke Shibui's sessions and hosted events
   - [article](https://tier4.jp/media/news/tieriv-merpay-online-meetup-2021-03/)
   - [blog](https://engineering.mercari.com/blog/entry/20210318-tieriv_merpay/)
 <br>
-
 
 - Tier IV 自動運転Web&Dataミートアップ
   - [event](https://tier4.connpass.com/event/198897/)
