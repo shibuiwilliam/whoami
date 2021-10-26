@@ -174,6 +174,10 @@ Yusuke Shibui's sessions and hosted events
 
 ### 2021
 
+- 第12回 MLOps 勉強会　Tokyo
+  - [event](https://mlops.connpass.com/event/223517/)
+<br>
+
 - 第10回 MLOps 勉強会 Tokyo
   - [event](https://mlops.connpass.com/event/218772/)
 <br>
