@@ -36,6 +36,23 @@ Yusuke Shibui's sessions and hosted events
 
 ## Sessions
 
+### 2022
+
+- Launchableで始めるテスト実行効率化
+  - [slides](https://speakerdeck.com/shibuiwilliam/launchable-and-efficient-test-execution)
+  - [event](https://rakus.connpass.com/event/237602/)
+<br>
+
+- 機械学習実用化失敗黙示録
+  - [slides](https://speakerdeck.com/shibuiwilliam/ji-jie-xue-xi-shi-yong-hua-shi-bai-mo-shi-lu)
+  - [event](https://rakus.connpass.com/event/241835/)
+<br>
+
+- MLOps失敗篇
+  - [slides](https://speakerdeck.com/shibuiwilliam/mlops-failure-1-108)
+  - [event](https://mlops.connpass.com/event/236071/)
+<br>
+
 ### 2021
 
 - CI/CD Conference 2021 by CloudNative Days
