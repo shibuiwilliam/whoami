@@ -9,6 +9,12 @@ Yusuke Shibui's sessions and hosted events
 - [AIエンジニアのための機械学習システムデザインパターン](https://www.shoeisha.co.jp/book/detail/9784798169453)
   - [Amazon](https://www.amazon.co.jp/dp/B08YNMRH4J/)
 
+## Interview
+
+- [AIシステムが成熟する今「MLOps」が必要とされる理由とは？ MLOpsを推進するために大切なこと](https://codezine.jp/article/detail/15953)
+
+- [AIの良しあしは精度だけでは測れない、「MLOps」の基本は何か](https://xtech.nikkei.com/atcl/nxt/column/18/00138/052001043/)
+
 ## Blog posts
 
 - [自動運転データの検索システムを爆速で作った話](https://tech.tier4.jp/entry/data-search-alpha)
