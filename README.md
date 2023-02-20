@@ -68,6 +68,7 @@ Yusuke Shibui's sessions and hosted events
 - MLOps勉強会LT大会 Generative AIと検索
   - [slides](https://speakerdeck.com/shibuiwilliam/generative-aitojian-suo-wozu-mihe-wasetaxin-tanati-yan-nomo-suo)
   - [event](https://mlops.connpass.com/event/265378/)
+<br>
 
 - 機械学習のコードレビュー
   - [slides](https://speakerdeck.com/shibuiwilliam/reviewing-machine-learning-program)
