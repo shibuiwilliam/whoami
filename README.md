@@ -17,6 +17,10 @@ Yusuke Shibui's sessions and hosted events
 
 ## Blog posts
 
+- [Generative AIと検索。またはほしいものをデザインしながら検索する体験の模索。](https://qiita.com/cvusk/items/9bb17daf289d560ec7f8)
+
+- [ソフトウェアテストの実行を効率化するPredictive Test Selectionの衝撃](https://qiita.com/cvusk/items/358e7964927af4128d32)
+
 - [自動運転データの検索システムを爆速で作った話](https://tech.tier4.jp/entry/data-search-alpha)
 
 - [2020年でKubernetesクラスターを3回再構築した話](https://tech.tier4.jp/entry/reconstruct-eks)
@@ -42,7 +46,32 @@ Yusuke Shibui's sessions and hosted events
 
 ## Sessions
 
+### 2023
+
+- Developers Summit 2023 機械学習を実用化するエンジニアリングスキル
+  - [slides](https://speakerdeck.com/shibuiwilliam/ji-jie-xue-xi-woshi-yong-hua-suruenziniaringusukiru)
+  - [event](https://event.shoeisha.jp/devsumi/20230209/session/4140/)
+
 ### 2022
+
+- Developers Summit 2022 Summer DevOpsと何が違うの？ 開発生産性向上のために知っておきたいDevOpsの現在と発展
+  - [slides](https://speakerdeck.com/shibuiwilliam/mlopshadevopstohe-gawei-ufalse)
+  - [event]((https://event.shoeisha.jp/devsumi/20220721/session/3855/))
+<br>
+
+- インフラエンジニアBooks 30分でわかる「現場で使える！　機械学習システム構築実践ガイド」
+  - [slides](https://speakerdeck.com/shibuiwilliam/machine-learning-system-development)
+  - [event](https://infra-eng-books.connpass.com/event/265139/)
+<br>
+
+- MLOps勉強会LT大会 Generative AIと検索
+  - [slides](https://speakerdeck.com/shibuiwilliam/generative-aitojian-suo-wozu-mihe-wasetaxin-tanati-yan-nomo-suo)
+  - [event](https://mlops.connpass.com/event/265378/)
+
+- 機械学習のコードレビュー
+  - [slides](https://speakerdeck.com/shibuiwilliam/reviewing-machine-learning-program)
+  - [event](https://rakus.connpass.com/event/257623/)
+<br>
 
 - Launchableで始めるテスト実行効率化
   - [slides](https://speakerdeck.com/shibuiwilliam/launchable-and-efficient-test-execution)
@@ -260,7 +289,7 @@ Yusuke Shibui's sessions and hosted events
 
 ### 2019
 
-- メルカリ メルペイMachineLearning meetup!未来を創るML最前線技術の応用と実践
+- メルカリ メルペイ MachineLearning meetup!未来を創るML最前線技術の応用と実践
   - [event](https://mercari.connpass.com/event/142853/)
 
 ## Links
