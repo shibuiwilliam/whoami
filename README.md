@@ -1,5 +1,3 @@
-# [GitHub Pages](https://shibuiwilliam.github.io/my-sessions/)
-
 # My sessions
 Yusuke Shibui's sessions and hosted events
 
