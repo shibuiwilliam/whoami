@@ -7,7 +7,7 @@ Yusuke Shibui's sessions and hosted events
 ## Publication
 
 - [AIエンジニアのための機械学習システムデザインパターン](https://www.shoeisha.co.jp/book/detail/9784798169453)
-  - [Amazon](https://amzn.to/3IyXfCn))
+  - [Amazon](https://amzn.to/3IyXfCn)
 
 - [現場で使える！機械学習システム構築実践ガイド デザインパターンを利用した最適な設計・構築・運用手法](https://www.shoeisha.co.jp/book/detail/9784798179049)
   - [Amazon](https://amzn.to/3Ihl1kQ) 
