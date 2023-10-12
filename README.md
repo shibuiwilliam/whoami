@@ -8,7 +8,12 @@ Yusuke Shibui's sessions and hosted events
   - [Amazon](https://amzn.to/3IyXfCn)
 
 - [現場で使える！機械学習システム構築実践ガイド デザインパターンを利用した最適な設計・構築・運用手法](https://www.shoeisha.co.jp/book/detail/9784798179049)
-  - [Amazon](https://amzn.to/3Ihl1kQ) 
+  - [Amazon](https://amzn.to/3Ihl1kQ)
+
+- [技術評論社Software Design誌にてMLOpsのすすめを連載中！](https://gihyo.jp/magazine/SD)
+  - [2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
+  - [2023年9月号](https://gihyo.jp/magazine/SD/archive/2023/202309)
+  - [2023年10月号](https://gihyo.jp/magazine/SD/archive/2023/202310)
 
 ## Interview
 
