@@ -306,5 +306,4 @@ Yusuke Shibui's sessions and hosted events
 - LinkedIn: [yusuke shibui](https://www.linkedin.com/in/yusuke-shibui-64337932/)
 - Qiita: [cvusk](https://qiita.com/cvusk)
 - Medium: [shibuiyusuke](https://medium.com/@shibuiyusuke)
-- Meety: https://meety.net/ma/matches/NGLJMxNiHGUy
 - YouTrust: [shibui](https://youtrust.jp/users/shibui)
