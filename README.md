@@ -10,10 +10,17 @@ Yusuke Shibui's sessions and hosted events
 - [現場で使える！機械学習システム構築実践ガイド デザインパターンを利用した最適な設計・構築・運用手法](https://www.shoeisha.co.jp/book/detail/9784798179049)
   - [Amazon](https://amzn.to/3Ihl1kQ)
 
-- [技術評論社Software Design誌にてMLOpsのすすめを連載中！](https://gihyo.jp/magazine/SD)
+- [技術評論社Software Design誌にてMLOpsのすすめを連載！](https://gihyo.jp/magazine/SD)
   - [2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
   - [2023年9月号](https://gihyo.jp/magazine/SD/archive/2023/202309)
   - [2023年10月号](https://gihyo.jp/magazine/SD/archive/2023/202310)
+  - [2023年11月号](https://gihyo.jp/magazine/SD/archive/2023/202311)
+  - [2023年12月号](https://gihyo.jp/magazine/SD/archive/2023/202312)
+  - [2024年1月号](https://gihyo.jp/magazine/SD/archive/2024/202401)
+  - [2024年2月号](https://gihyo.jp/magazine/SD/archive/2024/202402)
+  - [2024年3月号](https://gihyo.jp/magazine/SD/archive/2024/202403)
+  - [2024年4月号](https://gihyo.jp/magazine/SD/archive/2024/202404)
+  - [2024年5月号](https://gihyo.jp/magazine/SD/archive/2024/202405)
 
 ## Interview
 
@@ -51,6 +58,18 @@ Yusuke Shibui's sessions and hosted events
 
 
 ## Sessions
+
+### 2024
+
+- 生成AIカンファレンスに登壇
+  - [event](https://gen-ai-conf.org/)
+
+- 生成AI MLops LT大会を主催、登壇
+  - [slides](https://speakerdeck.com/shibuiwilliam/creative-as-software-engineering)
+  - [event](https://mlops.connpass.com/event/305093/)
+
+- 生成AI新年会に登壇
+  - [event](https://techplay.jp/event/931881)
 
 ### 2023
 
