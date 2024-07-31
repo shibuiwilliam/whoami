@@ -85,6 +85,10 @@ Yusuke Shibui's sessions and hosted events
 
 ### 2023
 
+- CloudNative Days Tokyo 2023『Kubernetesクラスターを引き継ぐ技術』
+  - [slides](CloudNative Days Tokyo 2023『Kubernetesクラスターを引き継ぐ技術』の)
+  - [event](https://event.cloudnativedays.jp/cndt2023/ui) 
+
 - Developers Summit 2023 機械学習を実用化するエンジニアリングスキル
   - [slides](https://speakerdeck.com/shibuiwilliam/ji-jie-xue-xi-woshi-yong-hua-suruenziniaringusukiru)
   - [event](https://event.shoeisha.jp/devsumi/20230209/session/4140/)
