@@ -61,6 +61,18 @@ Yusuke Shibui's sessions and hosted events
 
 ### 2024
 
+- 第42回MLOps勉強会登壇
+  - [slides](https://speakerdeck.com/shibuiwilliam/llmdetui-lun-sururaiburariwozheng-li-suru)
+  - [event](https://mlops.connpass.com/event/323395/) 
+
+- Developers Summit 2024 Summer 生成AIの研究開発を事業につなげる データ、仕組み、コミュニケーション
+  - [slides](https://speakerdeck.com/shibuiwilliam/sheng-cheng-ainoyan-jiu-kai-fa-woshi-ye-nitunageru-deta-shi-zu-mi-komiyunikesiyon)
+  - [event](https://event.shoeisha.jp/devsumi/20240723/session/5126)
+
+- デプロイして本番システムで使うことから考えるAI
+  - [slides](https://speakerdeck.com/shibuiwilliam/depuroisiteben-fan-sisutemudeshi-ukotokarakao-eruai)
+  - [event](https://wandb.connpass.com/event/319391/)
+
 - 生成AIカンファレンスに登壇
   - [event](https://gen-ai-conf.org/)
 
