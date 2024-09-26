@@ -10,6 +10,9 @@ Yusuke Shibui's sessions and hosted events
 - [現場で使える！機械学習システム構築実践ガイド デザインパターンを利用した最適な設計・構築・運用手法](https://www.shoeisha.co.jp/book/detail/9784798179049)
   - [Amazon](https://amzn.to/3Ihl1kQ)
 
+- [事例でわかるMLOps 機械学習の成果をスケールさせる処方箋](https://www.kspub.co.jp/book/detail/5369562.html)
+  - [Amazon](https://www.amazon.co.jp/dp/4065369568/) 
+
 - [技術評論社Software Design誌にてMLOpsのすすめを連載！](https://gihyo.jp/magazine/SD)
   - [2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
   - [2023年9月号](https://gihyo.jp/magazine/SD/archive/2023/202309)
@@ -60,6 +63,10 @@ Yusuke Shibui's sessions and hosted events
 ## Sessions
 
 ### 2024
+
+- 第10回 Data-Centric AI勉強会 ~Stability AI特別回~
+  - [slides](https://speakerdeck.com/shibuiwilliam/sheng-cheng-ainotamenodetashou-ji-todetaenziniaringu)
+  - [event](https://dcai-jp.connpass.com/event/329013/) 
 
 - 第42回MLOps勉強会登壇
   - [slides](https://speakerdeck.com/shibuiwilliam/llmdetui-lun-sururaiburariwozheng-li-suru)
