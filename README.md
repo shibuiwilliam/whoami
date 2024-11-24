@@ -24,6 +24,7 @@ Yusuke Shibui's sessions and hosted events
   - [2024年3月号](https://gihyo.jp/magazine/SD/archive/2024/202403)
   - [2024年4月号](https://gihyo.jp/magazine/SD/archive/2024/202404)
   - [2024年5月号](https://gihyo.jp/magazine/SD/archive/2024/202405)
+  - [Software Design総集編【2018～2023】](https://gihyo.jp/book/2024/978-4-297-14471-5)
 
 ## Interview
 
