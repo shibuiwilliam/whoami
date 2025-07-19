@@ -34,6 +34,12 @@ Yusuke Shibui's sessions and hosted events
 
 ## Blog posts
 
+- [PodCast 誰もやっていないから面白い- LayerXが挑む"AI検索エンジニア"](https://open.spotify.com/episode/4Chir9OAzbvqJ5SvMnxo2U)
+
+- [【R&D】 X人月を削減せよ ーLLMで業務ワークフローを自動生成するー](https://tech.layerx.co.jp/entry/2025/05/01/110000)
+
+- [七夕だからUUID v7について語る](https://qiita.com/cvusk/items/b21f4847ac09eeb7fe5c)
+
 - [Generative AIと検索。またはほしいものをデザインしながら検索する体験の模索。](https://qiita.com/cvusk/items/9bb17daf289d560ec7f8)
 
 - [ソフトウェアテストの実行を効率化するPredictive Test Selectionの衝撃](https://qiita.com/cvusk/items/358e7964927af4128d32)
