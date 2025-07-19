@@ -124,7 +124,7 @@ Yusuke Shibui's sessions and hosted events
 
 - Developers Summit 2022 Summer DevOpsと何が違うの？ 開発生産性向上のために知っておきたいDevOpsの現在と発展
   - [slides](https://speakerdeck.com/shibuiwilliam/mlopshadevopstohe-gawei-ufalse)
-  - [event]((https://event.shoeisha.jp/devsumi/20220721/session/3855/))
+  - [event](https://event.shoeisha.jp/devsumi/20220721/session/3855/)
 <br>
 
 - インフラエンジニアBooks 30分でわかる「現場で使える！　機械学習システム構築実践ガイド」
