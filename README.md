@@ -68,7 +68,7 @@ Yusuke Shibui's sessions and hosted events
 - Developers Summit 2025 Summer AIが間違えないように、間違えても見つかるように、構造的かつ分割的に指示する手法
   - [event](https://event.shoeisha.jp/devsumi/20250717) 
 
-- 検索ミートアップ ~LLM時代の検索~
+- 検索ミートアップ LLM時代の検索
   - [slide](https://speakerdeck.com/shibuiwilliam/llmshi-dai-nojian-suo)
   - [event](https://layerx.connpass.com/event/359071/)
 
@@ -78,7 +78,7 @@ Yusuke Shibui's sessions and hosted events
 
 ### 2024
 
-- 第10回 Data-Centric AI勉強会 ~Stability AI特別回~
+- 第10回 Data-Centric AI勉強会 Stability AI特別回
   - [slides](https://speakerdeck.com/shibuiwilliam/sheng-cheng-ainotamenodetashou-ji-todetaenziniaringu)
   - [event](https://dcai-jp.connpass.com/event/329013/) 
 
