@@ -28,13 +28,13 @@ Yusuke Shibui's sessions and hosted events
 
 ## Interview
 
+- [PodCast 誰もやっていないから面白い- LayerXが挑む"AI検索エンジニア"](https://open.spotify.com/episode/4Chir9OAzbvqJ5SvMnxo2U)
+
 - [AIシステムが成熟する今「MLOps」が必要とされる理由とは？ MLOpsを推進するために大切なこと](https://codezine.jp/article/detail/15953)
 
 - [AIの良しあしは精度だけでは測れない、「MLOps」の基本は何か](https://xtech.nikkei.com/atcl/nxt/column/18/00138/052001043/)
 
 ## Blog posts
-
-- [PodCast 誰もやっていないから面白い- LayerXが挑む"AI検索エンジニア"](https://open.spotify.com/episode/4Chir9OAzbvqJ5SvMnxo2U)
 
 - [【R&D】 X人月を削減せよ ーLLMで業務ワークフローを自動生成するー](https://tech.layerx.co.jp/entry/2025/05/01/110000)
 
