@@ -26,6 +26,8 @@ Yusuke Shibui's sessions and hosted events
   - [2024年5月号](https://gihyo.jp/magazine/SD/archive/2024/202405)
   - [Software Design総集編【2018～2023】](https://gihyo.jp/book/2024/978-4-297-14471-5)
 
+- [LayerX TechBook 1](https://techbookfest.org/product/5zbWgnL90mCvjt7MmnwxW2)
+
 ## Interview
 
 - [「LayerXでしか活躍できない人材にはなるな」生成AIの現場で変化に向き合い続けるために大切なこと（#LXエモカレ）](https://note.layerx.co.jp/n/nfaa5013d5fed?gs=411aa2c5cc44)
