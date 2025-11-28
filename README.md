@@ -28,6 +28,8 @@ Yusuke Shibui's sessions and hosted events
 
 ## Interview
 
+- [「LayerXでしか活躍できない人材にはなるな」生成AIの現場で変化に向き合い続けるために大切なこと（#LXエモカレ）](https://note.layerx.co.jp/n/nfaa5013d5fed?gs=411aa2c5cc44)
+
 - [PodCast 誰もやっていないから面白い- LayerXが挑む"AI検索エンジニア"](https://open.spotify.com/episode/4Chir9OAzbvqJ5SvMnxo2U)
 
 - [AIシステムが成熟する今「MLOps」が必要とされる理由とは？ MLOpsを推進するために大切なこと](https://codezine.jp/article/detail/15953)
@@ -35,6 +37,12 @@ Yusuke Shibui's sessions and hosted events
 - [AIの良しあしは精度だけでは測れない、「MLOps」の基本は何か](https://xtech.nikkei.com/atcl/nxt/column/18/00138/052001043/)
 
 ## Blog posts
+
+- [2025年R&Dチームの立ち上げとサマーインターン](https://tech.layerx.co.jp/entry/2025/11/05/00)
+
+- [AIエージェントで「不要な過去を忘れる」](https://tech.layerx.co.jp/entry/2025/11/14/0000)
+
+- [LLMの出力構造を推論して自動的に構造化する](https://tech.layerx.co.jp/entry/2025/10/06/080000)
 
 - [【R&D】 X人月を削減せよ ーLLMで業務ワークフローを自動生成するー](https://tech.layerx.co.jp/entry/2025/05/01/110000)
 
