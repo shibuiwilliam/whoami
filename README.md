@@ -1,6 +1,10 @@
 # My sessions
 Yusuke Shibui's sessions and hosted events
 
+## Patent
+
+- [On-device training of personalized model](https://patents.google.com/patent/US11631033B2/en)
+- [端末装置、画面表示システム、表示方法およびプログラム](https://www.j-platpat.inpit.go.jp/p0200)
 
 ## Publication
 
@@ -82,6 +86,25 @@ Yusuke Shibui's sessions and hosted events
 ## Sessions
 
 ### 2025
+- JSConf JP 2025
+  - [slide](https://speakerdeck.com/shibuiwilliam/aiezientoniyoruentapuraizuxiang-kesuraidojian-suo)
+  - [event](https://jsconf.jp/2025/ja)
+
+- Search Engineering Tech Talk 2025 Autumn
+  - [slide](https://speakerdeck.com/shibuiwilliam/shi-jian-marutimodarujian-suo)
+  - [event](https://search-tech.connpass.com/event/370754/)
+
+- LLM Tech Night #7 AI Agentを支えるContext Engineering
+  - [slide](https://speakerdeck.com/shibuiwilliam/llmshi-dai-nojian-suo-tokontekisutoenziniaringu)
+  - [event](https://layerx.connpass.com/event/363817/)
+
+- 事業にディープダイブするデータエンジニアリングミートアップ
+  - [slide](https://speakerdeck.com/shibuiwilliam/sheng-cheng-aishi-dai-nodetaji-pan)
+  - [event](https://layerx.connpass.com/event/363618/)
+
+- 【Mercari x LayerX】Applied AI R&Dへの挑戦ミートアップ
+  - [slide](https://speakerdeck.com/shibuiwilliam/layerxnoapplied-r-and-d)
+  - [event](https://layerx.connpass.com/event/364241/)
 
 - Developers Summit 2025 Summer AIが間違えないように、間違えても見つかるように、構造的かつ分割的に指示する手法
   - [event](https://event.shoeisha.jp/devsumi/20250717) 
