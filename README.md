@@ -86,6 +86,10 @@ Yusuke Shibui's sessions and hosted events
 ## Sessions
 
 ### 2025
+- AISI勉強会
+  - [slide](https://speakerdeck.com/shibuiwilliam/sheng-cheng-aisisutemutoaiezientoniguan-suruxing-neng-yaan-quan-xing-noping-jia)
+  - [event](https://aisi.go.jp/)_
+
 - JSConf JP 2025
   - [slide](https://speakerdeck.com/shibuiwilliam/aiezientoniyoruentapuraizuxiang-kesuraidojian-suo)
   - [event](https://jsconf.jp/2025/ja)
