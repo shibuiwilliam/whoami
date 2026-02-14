@@ -86,6 +86,10 @@ Yusuke Shibui's sessions and hosted events
 ## Sessions
 
 ### 2025
+- MLOps勉強会
+  - [slide](https://speakerdeck.com/shibuiwilliam/aiezientokai-fa-tohuo-yong-wojia-su-suruwakuhurozi-dong-sheng-cheng-henotiao-zhan)
+  - [event](https://mlops.connpass.com/event/377514/)
+
 - AISI勉強会
   - [slide](https://speakerdeck.com/shibuiwilliam/sheng-cheng-aisisutemutoaiezientoniguan-suruxing-neng-yaan-quan-xing-noping-jia)
   - [event](https://aisi.go.jp/)_
@@ -93,6 +97,9 @@ Yusuke Shibui's sessions and hosted events
 - JSConf JP 2025
   - [slide](https://speakerdeck.com/shibuiwilliam/aiezientoniyoruentapuraizuxiang-kesuraidojian-suo)
   - [event](https://jsconf.jp/2025/ja)
+
+- Google Developer Group 2025 session chairman
+  - [event](https://gdg-devfest-tokyo-2025.web.app/) 
 
 - Search Engineering Tech Talk 2025 Autumn
   - [slide](https://speakerdeck.com/shibuiwilliam/shi-jian-marutimodarujian-suo)
