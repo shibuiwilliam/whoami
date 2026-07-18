@@ -81,9 +81,48 @@ Yusuke Shibui's sessions and hosted events
 
 - Qiita: [cvusk](https://qiita.com/cvusk)
 - Medium: [shibuiyusuke](https://medium.com/@shibuiyusuke)
+- Note: [cvusk](https://note.com/cvusk)
+- SpeakerDeck: [shibuiwilliam](https://speakerdeck.com/shibuiwilliam)
 
 
 ## Sessions
+
+### 2026
+- Developers Summit 2026 Summer:  LLMやAIエージェントをソフトウェアに組み込むプラクティス
+  - [slide](https://speakerdeck.com/shibuiwilliam/llmyaaiezientowosohutoueanizu-miip-mupurakuteisu)
+  - [event](https://event.shoeisha.jp/devsumi/20260716/session/6864)
+
+- Tokyo AI: OntologyとLLMOps
+  - [slide](https://speakerdeck.com/shibuiwilliam/ontologytollmops)
+  - [event](https://tokyoai.connpass.com/event/396618/)
+
+- コーディングエージェントLT大会
+  - [slide]([https://mlops.connpass.com/event/395882/](https://speakerdeck.com/shibuiwilliam/from-prompt-engineering-to-loop-engineering)) 
+  - [event](https://mlops.connpass.com/event/395882/) 
+
+- Search Engineering Tech Meetup:  2026年はチャンキングを極める！
+  - [slide](https://speakerdeck.com/shibuiwilliam/2026nian-hatiyankinguwoji-meru)
+  - [event](https://search-tech.connpass.com/event/378445/) 
+
+- TechLead Conference 2026 powered by connpass: LLM時代の検索アーキテクチャと技術的意思決定
+  - [event](https://sansan.connpass.com/event/387148/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/llmshi-dai-nojian-suo-akitekutiyatoji-shu-de-yi-si-jue-ding)
+
+- DataOps Night #10 ～エンタープライズAIエージェントを支える技術～: マルチモーダル非構造データとの闘い
+  - [event](https://finatext.connpass.com/event/386359/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/marutimodarufei-gou-zao-detatonodou-i) 
+
+- LayerXの向き合うR&D課題 〜ビジネス課題を解く挑戦〜:  飽くなき自動生成への挑戦
+  - [event](https://layerx.connpass.com/event/383718/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/bao-kunakizi-dong-sheng-cheng-henotiao-zhan)
+
+- Engineers GUILD Vol5 実装から考えるAIエージェント設計勉強会:  AIエージェントのメモリについて
+  - [event](https://layerx.connpass.com/event/384255/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/aiezientonomemorinituite)
+
+- R&Dチームを立ち上げるミートアップ ~ Ubie x CitadelAI x LayerX ~:  R&Dチームを起ち上げる
+  - [event](https://ubie.connpass.com/event/379183/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/r-and-dtimuwoqi-tishang-geru)
 
 ### 2025
 - MLOps勉強会
@@ -415,3 +454,6 @@ Yusuke Shibui's sessions and hosted events
 - Qiita: [cvusk](https://qiita.com/cvusk)
 - Medium: [shibuiyusuke](https://medium.com/@shibuiyusuke)
 - YouTrust: [shibui](https://youtrust.jp/users/shibui)
+- Note: [cvusk](https://note.com/cvusk)
+- SpeakerDeck: [shibuiwilliam](https://speakerdeck.com/shibuiwilliam)
+- X: [cv_usk](https://x.com/cv_usk)
