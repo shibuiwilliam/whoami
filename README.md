@@ -99,6 +99,10 @@ Yusuke Shibui's sessions and hosted events
   - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
   - [event](https://bpstudy.connpass.com/event/401476/)
 
+- 第67回 MLOps/LLMOps/AgentOps 勉強会: ソフトウェアにLLM/AIエージェントを組み込むための実践ガイド
+  - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
+  - [event](https://mlops.connpass.com/event/401457/)
+
 - LLM・AIエージェントシステムベストプラクティス - FL#131
   - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
   - [event](https://forkwell.connpass.com/event/402142/))
