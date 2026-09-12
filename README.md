@@ -116,7 +116,7 @@ Yusuke Shibui's sessions and hosted events
   - [event](https://tokyoai.connpass.com/event/396618/)
 
 - コーディングエージェントLT大会
-  - [slide]([https://mlops.connpass.com/event/395882/](https://speakerdeck.com/shibuiwilliam/from-prompt-engineering-to-loop-engineering)) 
+  - [slide](https://speakerdeck.com/shibuiwilliam/from-prompt-engineering-to-loop-engineering) 
   - [event](https://mlops.connpass.com/event/395882/) 
 
 - Search Engineering Tech Meetup:  2026年はチャンキングを極める！
