@@ -88,6 +88,21 @@ Yusuke Shibui's sessions and hosted events
 ## Sessions
 
 ### 2026
+- AGNTCon + MCPCon Japan: The Conductor Pattern: Multi-Granularity Feedback for Creative Agents
+  - [slide](https://speakerdeck.com/shibuiwilliam/the-conductor-pattern-multi-granularity-feedback-for-creative-agents)
+  - [event](https://agntconmcpconjapan26.sched.com/event/2QlDs/the-conductor-pattern-multi-granularity-feedback-for-creative-agents-yusuke-shibui-mlopsllmopsagentops-community?iframe=yes&w=100%&sidebar=yes&bg=no) 
+
+- Snowflake World Tour Tokyo 2026: 『Snowflakeで実現する生成AIOpsのベストプラクティス』
+  - [event](https://snowflake-event.jp/content/BS1171/)
+
+- BPStudy#228〜LLM・AIエージェントシステムベストプラクティス
+  - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
+  - [event](https://bpstudy.connpass.com/event/401476/)
+
+- LLM・AIエージェントシステムベストプラクティス - FL#131
+  - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
+  - [event](https://forkwell.connpass.com/event/402142/))
+
 - Developers Summit 2026 Summer:  LLMやAIエージェントをソフトウェアに組み込むプラクティス
   - [slide](https://speakerdeck.com/shibuiwilliam/llmyaaiezientowosohutoueanizu-miip-mupurakuteisu)
   - [event](https://event.shoeisha.jp/devsumi/20260716/session/6864)
