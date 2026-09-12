@@ -81,9 +81,67 @@ Yusuke Shibui's sessions and hosted events
 
 - Qiita: [cvusk](https://qiita.com/cvusk)
 - Medium: [shibuiyusuke](https://medium.com/@shibuiyusuke)
+- Note: [cvusk](https://note.com/cvusk)
+- SpeakerDeck: [shibuiwilliam](https://speakerdeck.com/shibuiwilliam)
 
 
 ## Sessions
+
+### 2026
+- AGNTCon + MCPCon Japan: The Conductor Pattern: Multi-Granularity Feedback for Creative Agents
+  - [slide](https://speakerdeck.com/shibuiwilliam/the-conductor-pattern-multi-granularity-feedback-for-creative-agents)
+  - [event](https://agntconmcpconjapan26.sched.com/event/2QlDs/the-conductor-pattern-multi-granularity-feedback-for-creative-agents-yusuke-shibui-mlopsllmopsagentops-community?iframe=yes&w=100%&sidebar=yes&bg=no)
+
+- Snowflake World Tour Tokyo 2026: Best Practices for Generative AIOps with Snowflake
+  - [event](https://snowflake-event.jp/content/BS1171/)
+
+- BPStudy#228 — LLM/AI Agent Systems Best Practices
+  - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
+  - [event](https://bpstudy.connpass.com/event/401476/)
+
+- 67th MLOps/LLMOps/AgentOps Study Group: Practical Guide for Integrating LLMs/AI Agents into Software
+  - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
+  - [event](https://mlops.connpass.com/event/401457/)
+
+- LLM/AI Agent System Best Practices — FL#131
+  - [slide](https://speakerdeck.com/shibuiwilliam/llm-ai)
+  - [event](https://forkwell.connpass.com/event/402142/)
+
+- Developers Summit 2026 Summer: Practices for Integrating LLMs and AI Agents into Software
+  - [slide](https://speakerdeck.com/shibuiwilliam/llmyaaiezientowosohutoueanizu-miip-mupurakuteisu)
+  - [event](https://event.shoeisha.jp/devsumi/20260716/session/6864)
+
+- Tokyo AI: Ontology and LLMOps
+  - [slide](https://speakerdeck.com/shibuiwilliam/ontologytollmops)
+  - [event](https://tokyoai.connpass.com/event/396618/)
+
+- Coding Agent LT Session
+  - [slide](https://speakerdeck.com/shibuiwilliam/from-prompt-engineering-to-loop-engineering)
+  - [event](https://mlops.connpass.com/event/395882/)
+
+- Search Engineering Tech Meetup: Mastering Chunking in 2026!
+  - [slide](https://speakerdeck.com/shibuiwilliam/2026nian-hatiyankinguwoji-meru)
+  - [event](https://search-tech.connpass.com/event/378445/)
+
+- TechLead Conference 2026 powered by connpass: Search Architecture and Technical Decision-Making in the LLM Era
+  - [event](https://sansan.connpass.com/event/387148/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/llmshi-dai-nojian-suo-akitekutiyatoji-shu-de-yi-si-jue-ding)
+
+- DataOps Night #10 — Technologies Supporting Enterprise AI Agents: Fighting Multimodal Unstructured Data
+  - [event](https://finatext.connpass.com/event/386359/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/marutimodarufei-gou-zao-detatonodou-i)
+
+- LayerX R&D Challenges — Solving Business Problems: The Endless Pursuit of Automatic Generation
+  - [event](https://layerx.connpass.com/event/383718/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/bao-kunakizi-dong-sheng-cheng-henotiao-zhan)
+
+- Engineers GUILD Vol5 AI Agent Design Study Session from an Implementation Perspective: About AI Agent Memory
+  - [event](https://layerx.connpass.com/event/384255/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/aiezientonomemorinituite)
+
+- R&D Team Launch Meetup ~ Ubie x CitadelAI x LayerX ~: Launching an R&D Team
+  - [event](https://ubie.connpass.com/event/379183/)
+  - [slide](https://speakerdeck.com/shibuiwilliam/r-and-dtimuwoqi-tishang-geru)
 
 ### 2025
 - MLOps Study Group
@@ -415,3 +473,6 @@ Yusuke Shibui's sessions and hosted events
 - Qiita: [cvusk](https://qiita.com/cvusk)
 - Medium: [shibuiyusuke](https://medium.com/@shibuiyusuke)
 - YouTrust: [shibui](https://youtrust.jp/users/shibui)
+- Note: [cvusk](https://note.com/cvusk)
+- SpeakerDeck: [shibuiwilliam](https://speakerdeck.com/shibuiwilliam)
+- X: [cv_usk](https://x.com/cv_usk)
