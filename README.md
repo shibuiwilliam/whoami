@@ -7,6 +7,8 @@ Yusuke Shibui's sessions and hosted events
 - [端末装置、画面表示システム、表示方法およびプログラム](https://www.j-platpat.inpit.go.jp/p0200)
 
 ## Publication
+- [LLM・AIエージェントシステムベストプラクティス](https://www.shoeisha.co.jp/book/detail/9784798194318)
+  - [Amazon](https://www.amazon.co.jp/LLM%E3%83%BBAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%80%90%E5%9B%BA%E5%AE%9A%E5%9E%8B%E3%80%91-%E6%BE%81%E4%BA%95-%E9%9B%84%E4%BB%8B-ebook/dp/B0H61NKF8M/ref=sr_1_1?crid=2ED8261FKCJDF&dib=eyJ2IjoiMSJ9.53GzDGaAWwi3CanLrNC7oQBCV-1WzmNupoa924glHk4.GI6aBae1ipDE505UZH0wa1ry5-ttJYlrERi6LPSbdgU&dib_tag=se&keywords=llm+ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9&qid=1789260364&sprefix=llm%2Caps%2C176&sr=8-1)
 
 - [AIエンジニアのための機械学習システムデザインパターン](https://www.shoeisha.co.jp/book/detail/9784798169453)
   - [Amazon](https://amzn.to/3IyXfCn)
@@ -31,6 +33,7 @@ Yusuke Shibui's sessions and hosted events
   - [Software Design総集編【2018～2023】](https://gihyo.jp/book/2024/978-4-297-14471-5)
 
 - [LayerX TechBook 1](https://techbookfest.org/product/5zbWgnL90mCvjt7MmnwxW2)
+- [LayerX TechBook 2](https://techbookfest.org/product/jbe1zdnjqbb6cHwebRhapn?productVariantID=3VefBkLxtiAHJr1vAHjJMY)
 
 ## Interview
 
